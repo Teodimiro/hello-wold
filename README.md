@@ -1,2 +1,5 @@
 # hello-wold
-Just another repository
+
+Hi humans,
+
+Introduzindo novas formas de programação!
